@@ -1,0 +1,10 @@
+main: me.fluffybear.slimecalculator
+name: SlimeCalculator
+version: 1.0.1
+author: FluffyBear
+depend: [Slimefun]
+commands:
+   calculate:
+     usage: /calculate <amount>
+     description: Calculates the items needed to craft a SF item
+     aliases: [c]
